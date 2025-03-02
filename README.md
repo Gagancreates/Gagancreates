@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gagan
 - 👀 I’m currenlty a freshman pursuing my major in CS.
 - 🌱 Practice ML by day and build web applications by night. I code almost everyday casually.
-- 📫 You can reach me on Twitter(https://x.com/deeeplearner) and Linkedin(www.linkedin.com/in/gaganp56) ...
+- 📫 You can reach me on Linkedin(www.linkedin.com/in/gaganp56) ...
 
 
 <!---
