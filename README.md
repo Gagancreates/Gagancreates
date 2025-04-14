@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gagan
-- 👀 I’m currenlty a freshman pursuing my major in CS.
-- 🌱 Practice ML by day and build web applications by night. I code almost everyday casually.
+- I’m currently a freshman pursuing my major in CS.
+- I Practice ML by the day and build web applications by the night. I code almost everyday casually.
 - Feel free to check out my website(https://gagan-blogs.netlify.app/)
 - 📫 You can reach me on Linkedin(www.linkedin.com/in/gaganp56) ...
 
