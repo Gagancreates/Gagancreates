@@ -48,8 +48,8 @@ I also write tech blogs on my personal website, do check it out!
 ### Current Focus
 
 - Building **EduTutor** – an AI-native educational video generator  
-- Implementing **ML research papers** and exploring RL.  
-- Learning **System Design** out of curiousity.
+- Implementing **ML research papers** and exploring **RL**.  
+- Learning **System Design** out of curiosity.
 
 ---
 
