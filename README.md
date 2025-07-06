@@ -7,7 +7,7 @@ hey there!, this is Gagan - a Computer Science undergrad building machine learni
 MLE during the day and dev by the night, I ship things frequently and I build things that makes me curious.
 I also write tech blogs on my personal website, do check it out!
 
-- Website → [gagan-blogs.netlify.app](gaganp.com)  
+- Website → [gaganp.com](gaganp.com)  
 - LinkedIn → [linkedin.com/in/gaganp56](https://www.linkedin.com/in/gaganp56)
 
 ---
