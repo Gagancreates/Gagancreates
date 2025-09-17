@@ -1,5 +1,5 @@
 <h1 align="center">gagan</h1>
-<h3 align="center">CS Freshman · ML Engineer · Serial Builder</h3>
+<h3 align="center">CS Sophomore · ML Engineer · Serial Builder</h3>
 
 ---
 
