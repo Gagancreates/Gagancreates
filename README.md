@@ -8,7 +8,7 @@ MLE during the day and dev by the night, I ship things frequently and I build th
 I also write tech blogs on my personal website, do check it out!
 
 - Website → [gaganp.com](https://www.gaganp.com/)
-- Checkout: [zTutor-Prompt to Educational Video in Minutes](https://www.ztutor.app/)
+- Checkout → [zTutor-Prompt to Educational Video in Minutes](https://www.ztutor.app/)
 - LinkedIn → [linkedin.com/in/gaganp56](https://www.linkedin.com/in/gaganp56)
 
 ---
