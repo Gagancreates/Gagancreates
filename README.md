@@ -1,19 +1,47 @@
-<h1 align="center">gagan</h1>
-<h3 align="center">CS Sophomore · ML Engineer · Serial Builder</h3>
+<h1 align="center">Gagan P</h1>
+<p align="center">
+  CS Sophomore · Founder · ML Engineer
+</p>
+<p align="center">
+  <a href="https://gaganp.com">Website</a> · 
+  <a href="https://ztutor.app">zTutor</a> · 
+  <a href="https://linkedin.com/in/gaganp56">LinkedIn</a> · 
+  <a href="https://huggingface.co/Eunice-Labs">HuggingFace</a>
+</p>
 
 ---
 
-hey there!, this is Gagan - a Computer Science undergrad building machine learning systems and building cool stuff on the web.
-MLE during the day and dev by the night, I ship things frequently and I build things that makes me curious.
-I also write tech blogs on my personal website, do check it out!
+Building at the intersection of ML research and production systems.
 
-- Website → [gaganp.com](https://www.gaganp.com/)
-- Checkout → [zTutor-Prompt to Educational Video in Minutes](https://www.ztutor.app/)
-- LinkedIn → [linkedin.com/in/gaganp56](https://www.linkedin.com/in/gaganp56)
+Founder of **[zTutor](https://ztutor.app)** — an AI video generation platform with 2000+ users, backed by 3F Venture Capital. Running **[Eunice Labs](https://huggingface.co/Eunice-Labs)**, an independent AI research lab where I fine-tune LLMs, publish open-source models, and write research. Currently working on ARIA — adaptive reasoning token calibration in LLMs.
+
+I ship fast, go deep, and put everything on GitHub.
 
 ---
 
-###  Tech Stack
+### What I'm working on
+
+- **ARIA** — fine-tuning DeepSeek-R1 for adaptive reasoning token calibration; validated on MATH-500 and GSM8K
+- **zTutor** — scaling an AI-native educational video platform (2000+ users, VC-backed)
+- Writing ML deep-dives at [gaganp.com/blogs](https://gaganp.com/blogs)
+
+---
+
+### Projects
+
+**[zTutor](https://ztutor.app)** — AI platform that transforms any question into tutor-style animated video explanations. 2000+ users, VC-backed.
+
+**[Eunice Labs](https://huggingface.co/Eunice-Labs)** — Independent AI research lab. Open-source models, datasets, and research on LLM efficiency and reasoning.
+
+**[FeynmanAI](https://github.com/Gagancreates/FeynmanAI)** — Real-time voice AI tutor that responds by speaking while drawing diagrams on a live canvas simultaneously.
+
+**[NotesAI](https://github.com/Gagancreates/NotesAI)** — RAG pipeline that transforms lecture PDFs into structured study notes using semantic retrieval and Claude.
+
+**[ARIA](https://huggingface.co/Eunice-Labs)** — Fine-tuned DeepSeek-R1 for adaptive reasoning token calibration. Validated monotonically decreasing token usage across MATH-500 and GSM8K.
+
+---
+
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -21,44 +49,27 @@ I also write tech blogs on my personal website, do check it out!
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**ML**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**ML & AI**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white)
 
-
-**Web Dev**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Backend & Infra**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=Docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-808080?style=for-the-badge&logo=PostgreSQL&logoColor=black)
-![Django](https://img.shields.io/badge/Django-3670A0?style=for-the-badge&logo=django&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=Docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
-### Current Focus
-
-- Building **zTutor** – an AI-native educational video generator  
-- Implementing **ML research papers** and exploring **RL**.  
-- Learning **System Design** out of curiosity.
-
----
-
-
-
-<!---
-Gagancreates/Gagancreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagancreates&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagancreates&layout=compact&theme=dark&hide_border=true)
