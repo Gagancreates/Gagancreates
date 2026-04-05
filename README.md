@@ -1,4 +1,4 @@
-<h1 align="center">Gagan P</h1>
+<h1 align="center">Gagan</h1>
 <p align="center">
   CS Sophomore · Founder · ML Engineer
 </p>
@@ -71,5 +71,5 @@ I ship fast, go deep, and put everything on GitHub.
 ---
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagancreates&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gagancreates&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagancreates&layout=compact&theme=dark&hide_border=true)
