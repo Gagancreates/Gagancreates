@@ -13,7 +13,7 @@
 
 Building at the intersection of ML research and production systems.
 
-Founder of **[zTutor](https://ztutor.app)** — an AI video generation platform with 2000+ users, backed by 3F Venture Capital. Running **[Eunice Labs](https://huggingface.co/Eunice-Labs)**, an independent AI research lab where I fine-tune LLMs, publish open-source models, and write research. Currently working on ARIA — adaptive reasoning token calibration in LLMs.
+Founder of **[zTutor](https://ztutor.app)** — an AI video generation platform with 2000+ users, backed by 3F Venture Capital. Running **[Eunice Labs](https://huggingface.co/Eunice-Labs)**, an independent AI research lab where I fine-tune LLMs, publish open-source models, and write research. Currently working on ARIA - adaptive reasoning token calibration in LLMs.
 
 I ship fast, go deep, and put everything on GitHub.
 
@@ -69,7 +69,3 @@ I ship fast, go deep, and put everything on GitHub.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
-
-### Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Gagancreates&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagancreates&layout=compact&theme=dark&hide_border=true)
