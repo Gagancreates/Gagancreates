@@ -22,7 +22,7 @@ I ship fast, go deep, and put everything on GitHub.
 ### What I'm working on
 
 - **ARIA** — fine-tuning DeepSeek-R1 for adaptive reasoning token calibration; validated on MATH-500 and GSM8K
-- **zTutor** — scaling an AI-native educational video platform (2000+ users, VC-backed)
+- **zTutor** — scaling an AI-native educational video platform (2000+ users, backed by 3FVC)
 - Writing ML deep-dives at [gaganp.com/blogs](https://gaganp.com/blogs)
 
 ---
