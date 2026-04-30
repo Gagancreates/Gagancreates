@@ -1,6 +1,6 @@
 <h1 align="center">Gagan</h1>
 <p align="center">
-  CS Sophomore · Founder · ML Engineer
+  CS Sophomore · Founder · AI Engineer
 </p>
 <p align="center">
   <a href="https://gaganp.com">Website</a> · 
@@ -13,7 +13,7 @@
 
 Building at the intersection of ML research and production systems.
 
-Founder of **[zTutor](https://ztutor.app)** — an AI video generation platform with 2000+ users, backed by 3F Venture Capital. Running **[Eunice Labs](https://huggingface.co/Eunice-Labs)**, an independent AI research lab where I fine-tune LLMs, publish open-source models, and write research. Currently working on ARIA - adaptive reasoning token calibration in LLMs.
+AI Engineer at **[RowboatLabs](https://www.rowboatlabs.com)** , Prev. Founder of **[zTutor](https://ztutor.app)** — an AI video generation platform with 2000+ users, backed by 3F Venture Capital. Running **[Eunice Labs](https://huggingface.co/Eunice-Labs)**, an independent AI research lab where I fine-tune LLMs, publish open-source models, and write research. Currently working on ARIA - adaptive reasoning token calibration in LLMs.
 
 I ship fast, go deep, and put everything on GitHub.
 
