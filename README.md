@@ -6,7 +6,7 @@
   <a href="https://gaganp.com">Website</a> · 
   <a href="https://ztutor.app">zTutor</a> · 
   <a href="https://linkedin.com/in/gaganp56">LinkedIn</a> · 
-  <a href="https://www.eunicelabs.com/">HuggingFace</a>
+  <a href="https://www.eunicelabs.com/">Eunice Labs</a>
 </p>
 
 ---
