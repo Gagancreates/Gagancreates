@@ -17,15 +17,7 @@ AI Engineer at **[RowboatLabs](https://www.rowboatlabs.com)** , Prev. Founder of
 
 ---
 
-### What I'm working on
-
-- **ARIA** — fine-tuning DeepSeek-R1 for adaptive reasoning token calibration; validated on MATH-500 and GSM8K
-- **zTutor** — scaling an AI-native educational video platform (2000+ users, backed by 3FVC)
-- Writing ML deep-dives at [gaganp.com/blogs](https://gaganp.com/blogs)
-
----
-
-### Projects
+### cool stuff I built
 
 **[zTutor](https://ztutor.app)** — AI platform that transforms any question into tutor-style animated video explanations. 2000+ users, VC-backed.
 
